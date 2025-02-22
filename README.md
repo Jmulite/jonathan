@@ -1,1 +1,4 @@
 # jonathan
+Name: JONATHAN MULINGE MWANDI
+Reg : Eb3/56664/21
+Course: COSC 333 B
